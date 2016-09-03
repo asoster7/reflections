@@ -13,3 +13,15 @@ WHAT HAPPENS WHEN YOU INITIALZE A REPOSITORY? WHY DO YOU NEED TO DO IT?
 STAGING AREA
 	
 		The staging area is the inbetween of the WD and the repository. Gives the user control over what goes into the repository for each commit. 
+
+
+HOW CAN YOU USE THE STAGIN AREA TO MAKE SURE THAT YOU HAVE ONE COMMIT PERLOGICAL CHANGE?
+
+	You can make commits on a good work process. 
+
+	You can use the command to compare the staging area with the latest commit. 
+
+		git diff --staged
+
+
+		
