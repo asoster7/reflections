@@ -27,3 +27,12 @@ HOW CAN YOU USE THE STAGIN AREA TO MAKE SURE THAT YOU HAVE ONE COMMIT PERLOGICAL
 WHEN USE BRANCHES? 
 
 	Branches are good for experimental changes, or any other alterations that completely change the main path of the project. 
+
+
+HOW DO DIAGRAMS HELP VISUALIZE BRANCH STRUCTUE? 
+
+	They show you the backpropogating linear structure of the commits, and how they are only accessible from certain points. This being said, care should be taken when developing their structures so that the changes you want to have access too are saved as commits. 
+
+
+	When making a commit: you can use "git commit -b "branch name" to make a new branch ". 
+
