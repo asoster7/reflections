@@ -1,0 +1,28 @@
+Viewing diff function to compare between two files to distinguish between changes allowed a more efficient means to do just that. 
+
+
+	ON VERSION CONTROL 
+
+Having acess to a entire history of a file would make efficiency much higher because of: 
+
+	In the case of errors, bugs, glitches, or things that dont work and you cannot fix. Theres a save point. Also, sometimes you take things somewere that you dont want them to go after getting there, you can always go back incrementally. You also are not worried to much and let that intereference get in the way of trying new things, if you know that version control has you covered. 
+
+WHEN TO CREATE COMMITS? 
+
+	Do so at logical intervals. Keep these in mind:
+		1) Keep it to an individual function. 
+		2) Use good descriptions
+
+There are many advantages to manual conventions, because of this, it is definatly prefered and worth implementing into the thought process. 
+
+
+USING GIT TO COMPARE VERSIONS
+
+	First you have to git clone the repository to have acess. 
+	Then you go to the directory and git log
+	then you find the two commits you want to compare
+	you compare there commits by using git diff
+
+
+VERSON CONTROL CONFIDENCE
+	Allows you to confidently make potentiialy code breaking changes, without ruining your project, because of the ability to go back. 
