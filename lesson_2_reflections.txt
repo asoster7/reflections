@@ -24,4 +24,6 @@ HOW CAN YOU USE THE STAGIN AREA TO MAKE SURE THAT YOU HAVE ONE COMMIT PERLOGICAL
 		git diff --staged
 
 
-		
+WHEN USE BRANCHES? 
+
+	Branches are good for experimental changes, or any other alterations that completely change the main path of the project. 
