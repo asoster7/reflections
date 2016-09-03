@@ -1,0 +1,15 @@
+WHAT HAPPENS WHEN YOU INITIALZE A REPOSITORY? WHY DO YOU NEED TO DO IT? 
+
+
+	When you intialze a repository, you create a .git folder in the current directory. 
+
+	This lets git do its thing, idk the technicals behind it. 
+
+	You need to do this so that you can use git in the directory. 
+
+	You still need to make your first commit manually. 
+
+
+STAGING AREA
+	
+		The staging area is the inbetween of the WD and the repository. Gives the user control over what goes into the repository for each commit. 
