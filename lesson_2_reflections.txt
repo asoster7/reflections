@@ -36,3 +36,8 @@ HOW DO DIAGRAMS HELP VISUALIZE BRANCH STRUCTUE?
 
 	When making a commit: you can use "git commit -b "branch name" to make a new branch ". 
 
+
+
+WHAT IS THE RESULT OF MERGING TWO BRANCHES TOGETHER? 
+
+	It results in the chronological merging of the two commit lines into a single branch. The branch itself can then be removed, as it is no longer needed to access the commits whithin it, as it has been merged. 
