@@ -1,3 +1,8 @@
 WHY WOULD YOU WANT TO BE ABLE TO USE A REMOTE REPOSITORY RATHER THAN KEEPING YOUR WORK LOCAL? 
 
   So you can collaborate, work from multiple machines, and back up your repositories. 
+
+
+WHY MIGHT YOU WANT TO PULL CHANGES MANUALLY RATHER THAN HAVING GIT AUTOMATICALLY STAY UP TO DATE WITH REMOTE?
+
+	That way if you working on changes, it wont overwrite them automatically and mess up your work in progress. 
