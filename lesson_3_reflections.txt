@@ -1,1 +1,3 @@
+WHY WOULD YOU WANT TO BE ABLE TO USE A REMOTE REPOSITORY RATHER THAN KEEPING YOUR WORK LOCAL? 
 
+  So you can collaborate, work from multiple machines, and back up your repositories. 
